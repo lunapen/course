@@ -2,7 +2,8 @@ language: node_js
 node_js:
   - lts/*
 install:
-  - yarn install
+#  - yarn install
+  - npm install -D vuepress
 script:
   #- yarn docs:build
   - npm run docs:build
