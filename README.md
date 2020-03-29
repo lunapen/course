@@ -1,3 +1,2 @@
-# courseexample
-itest
+# course
 
